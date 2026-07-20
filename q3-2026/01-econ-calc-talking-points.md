@@ -15,10 +15,6 @@ The deeper issue is that we have no persistent, reliable view of a site's financ
 ### Introduce — What Tower Finance Is
 The econ calculator is a web application purpose-built for Anthemnet that gives everyone a self-serve, living, always-current pro forma for every site in our portfolio. You log in, pick a site, and you're looking at a full financial picture — revenue by carrier, ground lease costs, development and construction spend, operating expenses, net cash flow — all of it structured the same way, every time, for every site. Built on top of that is a financial health framework that makes up what we have been talking about as our "Econ Calculator". This is a set of criteria to assess each sites financial standing at any point in our process.
 
-It pulls directly from the systems we already use. SiteTracker feeds in site attributes, lease terms, carrier positions, and project milestones. QuickBooks feeds in actuals — what we've actually spent, what POs are open, what invoices have landed. The application combines these with our own financial model — our escalation rules, our construction cost estimates, our revenue share calculations — and produces the pro forma automatically.
-
-There is no manual assembly step. There is no spreadsheet with formulas that can be messed up. You open the application and it shows you where the site stands financially right now.
-
 The application gets more accurate as the site progresses. Every piece of data in the system has a trust level that is visually shown. A seeded default is the lowest — it's our best guess. A SiteTracker value is more certain — someone entered it from a real document. A QuickBooks actual is near the top — it's a real financial transaction. As the site progresses and we enter data into SiteTracker and record transactions in QuickBooks, the pro forma automatically layers in our most certain information over our initial estimates. 
 
 ___ 
