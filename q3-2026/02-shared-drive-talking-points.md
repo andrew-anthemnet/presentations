@@ -4,7 +4,7 @@
 
 ## The why
 
-The next thing on our roadmap is standardizing the file naming and folder structure across SharePoint. I want to start with why this matters.
+The next thing on our roadmap is standardizing the file naming and folder structure across Shared Drive. I want to start with why this matters.
 
 Most of the automations we've been talking about — things people have brought up to me — require software to be able to programmatically look up where a document is. That means surfacing the right document to you when you need it. It means automatically extracting data from a document and loading it into SiteTracker when it's dropped in a precise location with the right name. It means automatically assembling document packages for you once all the required documents are present in the right location and follow a naming convention.
 
