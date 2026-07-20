@@ -13,8 +13,7 @@ The deeper issue is that we have no persistent, reliable view of a site's financ
 --- 
 
 ### Introduce — What Tower Finance Is
-Tower Finance in one sentence
-Tower Finance is a web application purpose-built for Anthemnet that gives everyone a living, always-current pro forma for every site in our portfolio. You log in, pick a site, and you're looking at a full financial picture — revenue by carrier, ground lease costs, development and construction spend, operating expenses, net cash flow — all of it structured the same way, every time, for every site. Built on top of that is a financial health framework that makes up what we have been talking about as our "Econ Calculator". This is a set of criteria to assess each sites financial standing at any point in our process.
+The econ calculator is a web application purpose-built for Anthemnet that gives everyone a living, always-current pro forma for every site in our portfolio. You log in, pick a site, and you're looking at a full financial picture — revenue by carrier, ground lease costs, development and construction spend, operating expenses, net cash flow — all of it structured the same way, every time, for every site. Built on top of that is a financial health framework that makes up what we have been talking about as our "Econ Calculator". This is a set of criteria to assess each sites financial standing at any point in our process.
 
 It pulls directly from the systems we already use. SiteTracker feeds in site attributes, lease terms, carrier positions, and project milestones. QuickBooks feeds in actuals — what we've actually spent, what POs are open, what invoices have landed. The application combines these with our own financial model — our escalation rules, our construction cost estimates, our revenue share calculations — and produces the pro forma automatically.
 
